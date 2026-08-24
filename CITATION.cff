@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "AutoWarranty Vehicle-Year Evidence Matrix 2026"
+version: 1.0.0
+date-released: 2026-08-24
+type: dataset
+authors:
+  - family-names: "Finofin Research"
+publisher: "Finofin Limited"
+url: "https://autowarranty.autos/methodology"
+license: CC-BY-4.0
+keywords:
+  - NHTSA
+  - vehicle complaints
+  - vehicle recalls
+  - manufacturer communications
+  - FuelEconomy.gov
+  - model-year data
