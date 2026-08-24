@@ -1,0 +1,324 @@
+snapshot_date,make,model,make_slug,model_slug,fuel_family,priority,first_model_year,last_model_year,model_year_count,nhtsa_recall_count,nhtsa_complaint_count,nhtsa_communication_count,epa_matched_model_year_count,epa_configuration_count,nhtsa_source_url,epa_source_url
+2026-08-10,Acura,Integra,acura,integra,gas,1,2023,2026,4,6,277,143,4,15,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Acura,MDX,acura,mdx,gas_hybrid,1,2015,2026,12,65,1573,1721,11,39,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Acura,RDX,acura,rdx,gas,1,2015,2026,12,27,1571,1314,12,34,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,A4,audi,a4,gas,1,2015,2026,12,29,408,9692,11,35,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,Q3,audi,q3,gas,1,2015,2026,12,26,227,7345,12,21,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,Q5,audi,q5,gas_hybrid,1,2015,2026,12,60,765,10576,12,36,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,Q7,audi,q7,gas,1,2015,2026,12,43,708,10620,11,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,330i,bmw,330i,gas_hybrid,1,2017,2026,10,38,211,1553,10,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,X3,bmw,x3,gas_hybrid,1,2015,2026,12,90,889,2319,12,47,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,X5,bmw,x5,gas_hybrid,1,2015,2026,12,78,1045,2973,12,63,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,X7,bmw,x7,gas_hybrid,1,2019,2026,8,55,289,1718,8,17,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,iX,bmw,ix,electric,1,2022,2026,5,28,113,335,5,35,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Buick,Enclave,buick,enclave,gas,1,2015,2026,12,23,750,8760,12,24,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Buick,Encore GX,buick,encore-gx,gas,1,2020,2026,7,6,213,3086,7,21,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Buick,Envista,buick,envista,gas,1,2024,2026,3,1,81,655,3,5,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,Escalade,cadillac,escalade,gas,1,2015,2026,12,47,990,13645,12,46,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,Lyriq,cadillac,lyriq,electric,1,2023,2026,4,17,156,2013,4,13,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,XT5,cadillac,xt5,gas,1,2017,2026,10,19,294,6770,10,50,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Blazer,chevrolet,blazer,gas,1,2019,2026,8,11,671,4446,8,33,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Bolt EUV,chevrolet,bolt-euv,electric,1,2022,2023,2,4,132,828,2,2,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Bolt EV,chevrolet,bolt-ev,electric,1,2017,2023,7,38,960,4470,7,7,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Camaro,chevrolet,camaro,gas,1,2015,2024,10,17,737,10628,10,76,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Colorado,chevrolet,colorado,gas_diesel,1,2015,2026,12,23,2201,10969,12,91,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Corvette,chevrolet,corvette,gas_hybrid,1,2015,2026,12,29,740,10217,12,43,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Cruze,chevrolet,cruze,gas_diesel,1,2015,2019,5,15,828,5798,5,41,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Equinox,chevrolet,equinox,gas,1,2015,2026,12,30,3004,9778,12,46,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Impala,chevrolet,impala,gas,1,2015,2020,6,5,626,6078,6,21,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Silverado 1500,chevrolet,silverado-1500,gas_diesel,1,2015,2026,12,79,6989,13933,12,286,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Silverado 2500,chevrolet,silverado-2500,gas_diesel,1,2015,2026,12,53,958,13075,0,0,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Suburban,chevrolet,suburban,gas_diesel,1,2015,2026,12,59,1475,13919,12,72,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Tahoe,chevrolet,tahoe,gas_diesel,1,2015,2026,12,70,2260,14104,12,77,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Trailblazer,chevrolet,trailblazer,gas,1,2021,2026,6,5,411,2622,6,17,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Traverse,chevrolet,traverse,gas,1,2015,2026,12,33,2618,9196,12,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Volt,chevrolet,volt,gas_hybrid,1,2015,2019,5,6,1157,5362,5,5,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chrysler,300,chrysler,300,gas,1,2015,2023,9,23,531,2171,9,38,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chrysler,Pacifica,chrysler,pacifica,gas_hybrid,1,2017,2026,10,104,4168,4378,10,29,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Dodge,Challenger,dodge,challenger,gas,1,2015,2023,9,25,474,2364,9,95,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Dodge,Charger,dodge,charger,gas,1,2015,2023,9,39,813,2418,9,61,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Dodge,Durango,dodge,durango,gas,1,2015,2026,12,34,1592,3862,12,60,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Dodge,Grand Caravan,dodge,grand-caravan,gas,1,2015,2020,6,22,2212,562,6,11,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Dodge,Journey,dodge,journey,gas,1,2015,2020,6,20,1511,934,6,16,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Bronco,ford,bronco,gas,1,2021,2026,6,103,918,1035,6,66,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Bronco Sport,ford,bronco-sport,gas,1,2021,2026,6,64,1290,610,6,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,EcoSport,ford,ecosport,gas,1,2018,2022,5,12,1831,282,5,9,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Edge,ford,edge,gas,1,2015,2024,10,54,5022,1431,10,45,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Escape,ford,escape,gas_hybrid,1,2015,2026,12,127,10034,1981,12,68,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Expedition,ford,expedition,gas,1,2015,2026,12,98,2458,1572,12,47,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Explorer,ford,explorer,gas_hybrid,1,2015,2026,12,197,8998,2355,12,102,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,F-150,ford,f-150,gas_hybrid,1,2015,2026,12,174,12101,3851,12,229,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,F-250 Super Duty,ford,f-250-super-duty,gas_diesel,1,2015,2026,12,121,3934,2507,0,0,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,F-350 Super Duty,ford,f-350-super-duty,gas_diesel,1,2015,2026,12,120,2131,2477,0,0,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Fiesta,ford,fiesta,gas,1,2015,2019,5,7,640,391,5,18,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Focus,ford,focus,mixed,1,2015,2018,4,39,3932,640,4,40,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Fusion,ford,fusion,gas_hybrid,1,2015,2020,6,40,5094,1062,6,45,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Maverick,ford,maverick,gas_hybrid,1,2022,2026,5,85,1158,456,5,23,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Mustang,ford,mustang,gas,1,2015,2026,12,80,1723,1561,12,133,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Mustang Mach-E,ford,mustang-mach-e,electric,1,2021,2026,6,39,635,857,6,41,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Ranger,ford,ranger,gas,1,2019,2026,8,65,652,706,8,32,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,GMC,Acadia,gmc,acadia,gas,1,2015,2026,12,32,2395,9935,12,42,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,GMC,Canyon,gmc,canyon,gas_diesel,1,2015,2026,12,27,1020,10831,12,74,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,GMC,Sierra 1500,gmc,sierra-1500,gas_diesel,1,2015,2026,12,70,4729,13640,12,270,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,GMC,Sierra 2500,gmc,sierra-2500,gas_diesel,1,2015,2026,12,52,579,12160,0,0,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,GMC,Terrain,gmc,terrain,gas_diesel,1,2015,2026,12,26,1390,9679,12,44,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,GMC,Yukon,gmc,yukon,gas_diesel,1,2015,2026,12,61,3634,14322,12,164,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Genesis,GV80,genesis,gv80,gas,1,2021,2026,6,19,173,309,6,17,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Honda,Accord,honda,accord,gas_hybrid,1,2015,2026,12,55,5944,1901,12,64,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Honda,CR-V,honda,cr-v,mixed,1,2015,2026,12,63,8579,1732,12,44,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Honda,Civic,honda,civic,gas_hybrid,1,2015,2026,12,46,5102,1806,12,132,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Honda,HR-V,honda,hr-v,gas,1,2016,2026,11,32,1796,631,11,39,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Honda,Odyssey,honda,odyssey,gas,1,2015,2026,12,93,3555,1504,12,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Honda,Pilot,honda,pilot,gas,1,2015,2026,12,78,5435,1500,12,43,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Honda,Prologue,honda,prologue,electric,1,2024,2026,3,4,951,42,3,9,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Elantra,hyundai,elantra,gas_hybrid,1,2015,2026,12,39,2733,1190,12,93,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Ioniq 5,hyundai,ioniq-5,electric,1,2022,2026,5,21,1321,183,4,20,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Kona,hyundai,kona,mixed,1,2018,2026,9,23,921,584,9,54,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Palisade,hyundai,palisade,gas,1,2020,2026,7,32,2329,555,7,18,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Santa Cruz,hyundai,santa-cruz,gas,1,2022,2026,5,13,311,188,5,17,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Santa Fe,hyundai,santa-fe,gas_hybrid,1,2015,2026,12,58,3881,1483,12,85,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Sonata,hyundai,sonata,gas_hybrid,1,2015,2026,12,43,4126,1746,12,75,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Tucson,hyundai,tucson,gas_hybrid,1,2015,2026,12,34,5179,1289,12,59,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Infiniti,Q50,infiniti,q50,gas_hybrid,1,2015,2024,10,18,317,1276,10,50,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Infiniti,QX50,infiniti,qx50,gas,1,2015,2025,11,11,263,892,10,20,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Infiniti,QX60,infiniti,qx60,gas_hybrid,1,2015,2026,12,22,374,1377,11,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Infiniti,QX80,infiniti,qx80,gas,1,2015,2026,12,22,105,1050,12,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jaguar,F-PACE,jaguar,f-pace,gas_diesel,1,2017,2026,10,27,134,3456,10,35,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jaguar,I-PACE,jaguar,i-pace,electric,1,2019,2024,6,32,224,1204,5,7,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jeep,Cherokee,jeep,cherokee,gas,1,2015,2023,9,55,7245,2834,9,78,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jeep,Compass,jeep,compass,gas,1,2017,2026,10,19,2033,3127,10,27,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jeep,Gladiator,jeep,gladiator,gas_diesel,1,2020,2026,7,33,974,2734,7,18,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jeep,Grand Cherokee,jeep,grand-cherokee,gas_hybrid,1,2015,2026,12,130,5352,7264,12,79,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jeep,Wagoneer,jeep,wagoneer,gas,1,2022,2026,5,40,551,2858,5,38,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jeep,Wrangler,jeep,wrangler,gas_hybrid,1,2015,2026,12,120,6914,6226,12,98,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,EV6,kia,ev6,electric,1,2022,2026,5,11,528,203,5,23,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,EV9,kia,ev9,electric,1,2024,2026,3,11,243,148,3,13,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,Forte,kia,forte,gas,1,2015,2024,10,16,1216,889,10,60,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,K5,kia,k5,gas,1,2021,2026,6,20,472,403,6,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,Niro,kia,niro,mixed,1,2017,2026,10,24,504,652,10,42,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,Sorento,kia,sorento,gas_hybrid,1,2015,2026,12,47,4346,1527,12,73,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,Soul,kia,soul,mixed,1,2015,2025,11,29,3110,1184,11,43,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,Sportage,kia,sportage,gas_hybrid,1,2015,2026,12,30,1639,1113,12,63,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,Telluride,kia,telluride,gas,1,2020,2026,7,33,1897,477,6,12,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Land Rover,Defender,land-rover,defender,gas_hybrid,1,2020,2026,7,42,266,2387,7,54,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Land Rover,Range Rover,land-rover,range-rover,gas_hybrid,1,2015,2026,12,79,323,6647,12,83,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Land Rover,Range Rover Evoque,land-rover,range-rover-evoque,gas_hybrid,1,2015,2026,12,32,271,3919,10,18,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Land Rover,Range Rover Sport,land-rover,range-rover-sport,gas_hybrid,1,2015,2026,12,82,350,6452,12,51,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,ES 350,lexus,es-350,gas,1,2015,2025,11,8,82,834,11,18,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,GX 460,lexus,gx-460,gas,1,2015,2023,9,11,33,790,9,9,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,IS,lexus,is,gas,1,2015,2026,12,9,108,1395,12,52,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,LX,lexus,lx,gas,1,2015,2026,12,26,33,1079,12,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,NX 300,lexus,nx-300,gas_hybrid,1,2018,2021,4,2,25,341,4,12,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,NX 350,lexus,nx-350,gas_hybrid,1,2022,2026,5,4,1,75,5,10,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,RX 350,lexus,rx-350,gas_hybrid,1,2015,2026,12,14,217,1006,12,35,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lincoln,Aviator,lincoln,aviator,gas_hybrid,1,2020,2026,7,124,255,1116,7,19,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lincoln,MKC,lincoln,mkc,gas,1,2015,2019,5,27,567,699,5,18,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lincoln,MKZ,lincoln,mkz,gas_hybrid,1,2015,2020,6,26,362,864,6,30,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lincoln,Nautilus,lincoln,nautilus,gas_hybrid,1,2019,2026,8,39,231,851,8,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lincoln,Navigator,lincoln,navigator,gas,1,2015,2026,12,97,310,1567,12,33,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,MINI,Cooper,mini,cooper,mixed,1,2015,2026,12,34,229,1651,12,151,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,MINI,Countryman,mini,countryman,gas_hybrid,1,2015,2026,12,19,87,234,12,80,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,CX-5,mazda,cx-5,gas_diesel,1,2015,2026,12,15,1835,5031,12,38,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,CX-9,mazda,cx-9,gas,1,2015,2023,9,8,452,3465,9,16,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,CX-90,mazda,cx-90,gas_hybrid,1,2024,2026,3,13,458,900,3,9,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,Mazda3,mazda,mazda3,gas,1,2015,2026,12,29,629,5737,12,97,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,Mazda6,mazda,mazda6,gas,1,2015,2021,7,8,271,3421,7,19,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,C 300,mercedes-benz,c-300,gas_hybrid,1,2015,2026,12,114,1165,2285,12,52,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,E 350,mercedes-benz,e-350,gas_hybrid,1,2015,2026,10,43,139,1369,9,25,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,GLA 250,mercedes-benz,gla-250,gas,1,2015,2026,12,62,286,1561,12,29,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,GLC 300,mercedes-benz,glc-300,gas_hybrid,1,2016,2026,11,101,668,2237,11,32,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,GLE 350,mercedes-benz,gle-350,gas_hybrid,1,2016,2026,11,85,374,2313,10,24,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mitsubishi,Mirage,mitsubishi,mirage,gas,1,2015,2024,10,8,131,556,9,32,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mitsubishi,Outlander,mitsubishi,outlander,gas_hybrid,1,2015,2026,12,48,671,1402,12,37,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mitsubishi,Outlander Sport,mitsubishi,outlander-sport,gas,1,2015,2025,11,23,343,742,11,46,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Altima,nissan,altima,gas,1,2015,2026,12,36,2659,1622,12,46,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Armada,nissan,armada,gas,1,2015,2026,12,16,331,813,11,29,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Frontier,nissan,frontier,gas,1,2015,2026,12,23,413,805,12,57,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Leaf,nissan,leaf,electric,1,2015,2026,12,38,809,874,12,26,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Maxima,nissan,maxima,gas,1,2015,2023,9,16,330,1156,8,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Murano,nissan,murano,gas_hybrid,1,2015,2026,12,23,668,1493,12,25,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Pathfinder,nissan,pathfinder,gas_hybrid,1,2015,2026,12,24,1166,1404,11,39,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Rogue,nissan,rogue,gas_hybrid,1,2015,2026,12,57,4373,1960,12,50,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Rogue Sport,nissan,rogue-sport,gas,1,2017,2022,6,10,363,633,6,12,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Sentra,nissan,sentra,gas,1,2015,2026,12,34,1752,1264,12,38,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Versa,nissan,versa,gas,1,2015,2025,11,14,639,933,11,26,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Polestar,2,polestar,2,electric,1,2021,2026,6,20,588,561,5,17,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Porsche,911,porsche,911,gas_hybrid,1,2015,2026,12,53,48,6620,12,361,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Porsche,Cayenne,porsche,cayenne,gas_hybrid,1,2015,2026,12,42,187,7241,12,97,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Porsche,Macan,porsche,macan,mixed,1,2015,2026,12,36,246,5787,12,56,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Porsche,Taycan,porsche,taycan,electric,1,2020,2026,7,71,270,4621,7,84,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ram,1500,ram,1500,gas_diesel,1,2015,2026,12,167,8410,8310,12,132,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ram,2500,ram,2500,gas_diesel,1,2015,2026,12,118,4480,5530,0,0,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ram,3500,ram,3500,gas_diesel,1,2015,2026,12,118,1968,5776,0,0,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ram,ProMaster,ram,promaster,gas_diesel,1,2015,2026,12,96,591,2723,0,0,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Subaru,Ascent,subaru,ascent,gas,1,2019,2026,8,25,1014,2377,8,16,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Subaru,Crosstrek,subaru,crosstrek,gas_hybrid,1,2016,2026,11,23,1109,3256,11,33,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Subaru,Forester,subaru,forester,gas_hybrid,1,2015,2026,12,24,4010,3991,12,29,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Subaru,Outback,subaru,outback,gas,1,2015,2026,12,35,5800,4294,12,29,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Subaru,WRX,subaru,wrx,gas,1,2015,2026,12,15,290,3110,12,32,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Tesla,Cybertruck,tesla,cybertruck,electric,1,2024,2026,3,16,195,63,2,6,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Tesla,Model 3,tesla,model-3,electric,1,2017,2026,10,131,4220,834,10,42,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Tesla,Model S,tesla,model-s,electric,1,2015,2026,12,125,2487,803,12,62,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Tesla,Model X,tesla,model-x,electric,1,2016,2026,11,123,1520,807,11,41,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Tesla,Model Y,tesla,model-y,electric,1,2020,2026,7,94,3972,441,7,27,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,4Runner,toyota,4runner,gas,1,2015,2026,12,40,525,1755,12,42,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Avalon,toyota,avalon,gas_hybrid,1,2015,2022,8,21,231,1810,8,26,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,C-HR,toyota,c-hr,gas,1,2018,2022,5,6,496,584,5,5,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Camry,toyota,camry,gas_hybrid,1,2015,2026,12,37,2636,2471,12,83,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Corolla,toyota,corolla,gas_hybrid,1,2015,2026,12,30,1730,2122,12,104,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Corolla Cross,toyota,corolla-cross,gas_hybrid,1,2022,2026,5,14,306,329,5,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Highlander,toyota,highlander,gas_hybrid,1,2015,2026,12,52,2583,2311,12,72,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Land Cruiser,toyota,land-cruiser,gas_hybrid,1,2015,2026,12,20,83,1164,10,10,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Prius,toyota,prius,gas_hybrid,1,2015,2026,12,27,700,1956,12,48,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,RAV4,toyota,rav4,gas_hybrid,1,2015,2026,12,46,3924,2620,12,76,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Sequoia,toyota,sequoia,gas_hybrid,1,2015,2026,12,38,149,1610,12,30,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Sienna,toyota,sienna,gas_hybrid,1,2015,2026,12,49,1063,2151,12,24,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Tacoma,toyota,tacoma,gas_hybrid,1,2015,2026,12,36,1566,2347,12,90,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Tundra,toyota,tundra,gas_hybrid,1,2015,2026,12,86,1756,2065,12,77,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Atlas,volkswagen,atlas,gas,1,2018,2026,9,83,2360,4111,9,55,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Golf,volkswagen,golf,gas,1,2015,2021,7,41,449,4449,7,16,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Golf GTI,volkswagen,golf-gti,gas,1,2015,2026,12,37,483,4521,12,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Jetta,volkswagen,jetta,gas_hybrid,1,2015,2026,12,49,1358,5953,12,50,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Passat,volkswagen,passat,gas,1,2015,2022,8,28,559,4559,8,15,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Tiguan,volkswagen,tiguan,gas,1,2015,2026,12,46,1395,5486,12,34,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,XC40,volvo,xc40,mixed,1,2019,2026,8,23,207,1406,8,19,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,XC60,volvo,xc60,gas_hybrid,1,2015,2026,12,48,406,2870,12,43,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,XC90,volvo,xc90,gas_hybrid,1,2015,2026,12,53,544,3442,11,41,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Acura,ILX,acura,ilx,gas,2,2015,2022,8,25,173,538,8,9,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Acura,TLX,acura,tlx,gas,2,2015,2025,11,44,914,1341,11,50,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Acura,ZDX,acura,zdx,electric,2,2024,2026,2,5,52,27,2,6,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Alfa Romeo,Giulia,alfa-romeo,giulia,gas,2,2017,2026,10,49,268,1055,10,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Alfa Romeo,Stelvio,alfa-romeo,stelvio,gas,2,2018,2026,9,43,197,887,9,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Alfa Romeo,Tonale,alfa-romeo,tonale,gas_hybrid,2,2024,2026,3,12,12,191,3,4,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,A3,audi,a3,gas_hybrid,2,2015,2026,12,40,460,7810,11,36,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,A5,audi,a5,gas,2,2015,2026,12,31,162,10110,12,39,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,A6,audi,a6,gas_hybrid,2,2015,2026,12,51,294,11382,12,36,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,A7,audi,a7,gas_hybrid,2,2015,2026,12,47,77,10583,11,15,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,A8,audi,a8,gas_hybrid,2,2015,2026,12,41,73,9964,12,27,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,Q4 e-tron,audi,q4-e-tron,electric,2,2022,2026,5,14,63,2846,5,16,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,Q6 e-tron,audi,q6-e-tron,electric,2,2025,2026,2,3,30,592,1,7,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,Q8,audi,q8,gas,2,2019,2026,8,26,193,7496,8,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,Q8 e-tron,audi,q8-e-tron,electric,2,2024,2026,3,2,0,849,2,7,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Audi,e-tron,audi,e-tron,electric,2,2019,2023,5,44,185,5666,5,18,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,430i,bmw,430i,gas,2,2017,2026,10,26,120,984,10,60,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,530i,bmw,530i,gas_hybrid,2,2017,2026,10,35,108,1845,10,20,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,540i,bmw,540i,gas_hybrid,2,2017,2026,10,20,85,1461,10,17,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,740i,bmw,740i,gas_hybrid,2,2015,2026,12,24,42,1808,12,21,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,X1,bmw,x1,gas,2,2015,2026,12,37,625,1139,12,23,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,X2,bmw,x2,gas,2,2018,2026,9,11,26,473,9,23,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,X4,bmw,x4,gas,2,2015,2026,12,49,85,1507,11,35,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,X6,bmw,x6,gas_hybrid,2,2015,2026,12,43,62,1929,12,47,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,Z4,bmw,z4,gas,2,2015,2026,10,29,22,756,10,25,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,i3,bmw,i3,mixed,2,2015,2021,7,12,158,998,7,15,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,i4,bmw,i4,electric,2,2022,2026,5,20,92,229,5,33,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,i5,bmw,i5,electric,2,2024,2026,3,16,26,75,3,24,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,BMW,i7,bmw,i7,electric,2,2023,2026,4,25,25,155,4,27,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Buick,Encore,buick,encore,gas,2,2015,2022,8,12,485,7008,8,26,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Buick,Envision,buick,envision,gas,2,2016,2026,11,15,232,6633,11,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Buick,LaCrosse,buick,lacrosse,gas_hybrid,2,2015,2019,5,12,142,5660,5,16,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Buick,Regal,buick,regal,gas_hybrid,2,2015,2020,6,9,150,5914,6,25,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Buick,Verano,buick,verano,gas,2,2015,2017,3,3,126,3307,3,7,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,CT4,cadillac,ct4,gas,2,2020,2026,7,11,31,3678,7,52,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,CT5,cadillac,ct5,gas,2,2020,2026,7,12,92,3715,7,52,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,CTS,cadillac,cts,gas,2,2015,2019,5,11,121,6617,5,27,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,Optiq,cadillac,optiq,electric,2,2025,2026,2,4,12,406,1,6,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,Vistiq,cadillac,vistiq,electric,2,2026,2026,1,4,17,178,1,2,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,XT4,cadillac,xt4,gas,2,2019,2026,8,12,103,4180,7,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,XT6,cadillac,xt6,gas,2,2020,2026,7,14,103,3580,6,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Cadillac,XTS,cadillac,xts,gas,2,2015,2019,5,6,72,5564,5,25,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Malibu,chevrolet,malibu,gas_hybrid,2,2015,2025,11,33,3206,9298,11,24,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chevrolet,Trax,chevrolet,trax,gas,2,2015,2026,12,20,930,7592,11,23,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Chrysler,Voyager,chrysler,voyager,gas,2,2020,2025,6,27,36,1846,6,6,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Dodge,Hornet,dodge,hornet,gas_hybrid,2,2023,2026,4,16,97,358,3,5,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,FIAT,124 Spider,fiat,124-spider,gas,2,2017,2020,4,8,65,243,4,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,FIAT,500,fiat,500,gas,2,2015,2019,5,14,124,605,5,26,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,FIAT,500X,fiat,500x,gas,2,2016,2023,8,10,187,722,8,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Flex,ford,flex,gas,2,2015,2019,5,18,531,333,5,15,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Ford,Taurus,ford,taurus,gas,2,2015,2019,5,20,439,414,5,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,GMC,Hummer EV,gmc,hummer-ev,electric,2,2022,2026,5,9,24,2440,2,16,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Genesis,G70,genesis,g70,gas,2,2019,2026,8,15,129,300,8,33,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Genesis,G80,genesis,g80,mixed,2,2017,2026,10,31,232,569,10,41,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Genesis,G90,genesis,g90,gas_hybrid,2,2017,2026,10,29,66,365,10,32,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Genesis,GV60,genesis,gv60,electric,2,2023,2026,4,18,77,137,4,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Genesis,GV70,genesis,gv70,mixed,2,2022,2026,5,22,224,269,5,19,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Honda,Passport,honda,passport,gas,2,2019,2026,8,38,678,614,8,13,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Honda,Ridgeline,honda,ridgeline,gas,2,2017,2026,10,56,1353,725,10,17,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Ioniq 6,hyundai,ioniq-6,electric,2,2023,2026,4,13,126,81,3,15,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Ioniq 9,hyundai,ioniq-9,electric,2,2026,2026,1,2,28,15,1,3,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Nexo,hyundai,nexo,hydrogen,2,2019,2025,7,13,22,148,7,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Hyundai,Venue,hyundai,venue,gas,2,2020,2026,7,5,143,225,7,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Infiniti,Q60,infiniti,q60,gas,2,2017,2022,6,6,67,759,6,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Infiniti,QX55,infiniti,qx55,gas,2,2022,2025,4,2,11,146,4,4,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jaguar,E-PACE,jaguar,e-pace,gas,2,2018,2024,7,15,24,1799,7,12,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jaguar,F-TYPE,jaguar,f-type,gas,2,2015,2024,10,16,32,2707,10,99,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jaguar,XE,jaguar,xe,gas_diesel,2,2017,2020,4,9,36,1926,4,24,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jaguar,XF,jaguar,xf,gas_diesel,2,2015,2024,10,12,34,3796,10,45,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Jeep,Renegade,jeep,renegade,gas,2,2015,2023,9,24,2190,2495,9,37,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,Carnival,kia,carnival,gas,2,2022,2026,5,15,460,297,5,7,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,K4,kia,k4,gas,2,2025,2026,2,3,50,26,2,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,Seltos,kia,seltos,gas,2,2021,2026,6,7,527,310,6,17,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Kia,Stinger,kia,stinger,gas,2,2018,2023,6,20,163,305,6,24,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Land Rover,Discovery,land-rover,discovery,gas_diesel,2,2017,2026,10,39,180,4363,10,20,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Land Rover,Discovery Sport,land-rover,discovery-sport,gas_diesel,2,2015,2026,12,18,172,3036,12,15,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,LC,lexus,lc,gas_hybrid,2,2018,2026,9,10,13,755,9,23,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,LS,lexus,ls,gas_hybrid,2,2015,2026,12,20,47,1412,12,45,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,RC,lexus,rc,gas,2,2015,2025,11,21,45,1443,11,53,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,RZ,lexus,rz,electric,2,2023,2026,4,7,18,244,4,16,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,TX 350,lexus,tx-350,gas,2,2024,2026,3,0,0,0,3,6,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lexus,UX 250h,lexus,ux-250h,gas_hybrid,2,2019,2024,6,0,0,0,6,12,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lincoln,Continental,lincoln,continental,gas,2,2017,2020,4,11,131,520,4,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lincoln,Corsair,lincoln,corsair,gas_hybrid,2,2020,2026,7,87,208,831,7,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Lucid,Air,lucid,air,electric,2,2022,2026,5,42,71,210,5,41,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,MINI,Clubman,mini,clubman,gas,2,2015,2024,10,7,52,227,9,53,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,CX-3,mazda,cx-3,gas,2,2016,2021,6,9,110,2689,6,12,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,CX-30,mazda,cx-30,gas,2,2020,2026,7,10,240,2438,7,19,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,CX-50,mazda,cx-50,gas_hybrid,2,2023,2026,4,8,147,750,4,10,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,CX-70,mazda,cx-70,gas_hybrid,2,2025,2026,2,4,53,377,2,6,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mazda,MX-5 Miata,mazda,mx-5-miata,gas,2,2015,2026,12,17,85,2773,12,25,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,A 220,mercedes-benz,a-220,gas,2,2019,2022,4,30,76,879,4,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,CLA 250,mercedes-benz,cla-250,gas,2,2015,2026,12,56,247,1568,12,31,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,EQB,mercedes-benz,eqb,electric,2,2022,2025,4,12,83,517,3,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,EQE,mercedes-benz,eqe,electric,2,2023,2026,4,18,54,648,3,16,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,EQS,mercedes-benz,eqs,electric,2,2022,2026,5,28,111,960,5,27,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,G 550,mercedes-benz,g-550,gas,2,2015,2026,12,44,15,1014,12,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,GLB 250,mercedes-benz,glb-250,gas,2,2020,2026,7,37,111,1140,7,14,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mercedes-Benz,GLS 450,mercedes-benz,gls-450,gas_hybrid,2,2017,2026,10,66,178,1526,10,10,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Mitsubishi,Eclipse Cross,mitsubishi,eclipse-cross,gas,2,2018,2026,9,3,58,475,8,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,370Z,nissan,370z,gas,2,2015,2020,6,1,14,392,6,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Ariya,nissan,ariya,electric,2,2023,2026,4,3,49,95,4,25,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Kicks,nissan,kicks,gas,2,2018,2026,9,13,488,628,9,12,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Titan,nissan,titan,gas,2,2015,2024,10,33,648,1460,9,28,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Nissan,Z,nissan,z,gas,2,2023,2026,4,4,3,68,4,11,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Polestar,3,polestar,3,electric,2,2025,2026,2,6,78,157,2,12,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Porsche,718,porsche,718,gas,2,2017,2026,10,15,18,3812,6,91,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Porsche,Panamera,porsche,panamera,gas_hybrid,2,2015,2026,12,38,37,6606,12,139,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Rivian,R1S,rivian,r1s,electric,2,2022,2026,5,37,156,162,5,82,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Rivian,R1T,rivian,r1t,electric,2,2022,2026,5,30,119,197,5,79,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Subaru,BRZ,subaru,brz,gas,2,2015,2026,12,4,29,1942,11,24,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Subaru,Impreza,subaru,impreza,gas,2,2015,2026,12,28,771,3722,12,71,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Subaru,Legacy,subaru,legacy,gas,2,2015,2025,11,27,876,4134,11,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Subaru,Solterra,subaru,solterra,electric,2,2023,2026,4,9,71,374,4,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Crown,toyota,crown,gas_hybrid,2,2023,2026,4,11,39,321,4,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Crown Signia,toyota,crown-signia,gas_hybrid,2,2025,2026,2,3,13,61,2,2,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,GR86,toyota,gr86,gas,2,2022,2026,5,3,39,41,4,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Grand Highlander,toyota,grand-highlander,gas_hybrid,2,2024,2026,3,10,290,206,3,22,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Mirai,toyota,mirai,hydrogen,2,2016,2026,11,7,30,1218,11,17,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Venza,toyota,venza,gas_hybrid,2,2015,2024,6,10,300,938,5,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,Yaris,toyota,yaris,gas,2,2015,2020,6,14,74,845,6,13,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,bZ,toyota,bz,electric,2,2026,2026,1,1,13,29,1,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Toyota,bZ4X,toyota,bz4x,electric,2,2023,2025,3,9,49,309,3,13,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Arteon,volkswagen,arteon,gas,2,2019,2023,5,6,40,1778,5,10,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Beetle,volkswagen,beetle,gas,2,2015,2019,5,22,205,2944,5,31,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,ID. Buzz,volkswagen,id-buzz,electric,2,2025,2026,2,2,12,89,1,2,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,ID.4,volkswagen,id-4,electric,2,2021,2026,6,41,979,1411,6,29,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Taos,volkswagen,taos,gas,2,2022,2026,5,9,465,1198,5,10,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,Touareg,volkswagen,touareg,gas_diesel,2,2015,2017,3,6,92,1658,3,6,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volkswagen,e-Golf,volkswagen,e-golf,electric,2,2015,2019,5,10,53,1654,5,5,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,C40,volvo,c40,electric,2,2022,2024,3,11,38,310,3,4,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,EX30,volvo,ex30,electric,2,2025,2026,2,4,7,90,2,8,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,EX40,volvo,ex40,electric,2,2025,2026,2,4,3,70,2,4,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,EX90,volvo,ex90,electric,2,2025,2026,2,3,67,174,2,10,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,S60,volvo,s60,gas_hybrid,2,2015,2025,11,38,178,2249,11,51,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,S90,volvo,s90,gas_hybrid,2,2017,2026,10,26,35,2202,10,23,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,V60,volvo,v60,gas_hybrid,2,2015,2025,11,39,81,2325,10,35,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
+2026-08-10,Volvo,V90,volvo,v90,gas_hybrid,2,2017,2022,6,13,23,1970,5,15,https://www.nhtsa.gov/nhtsa-datasets-and-apis,https://www.fueleconomy.gov/feg/ws/index.shtml
