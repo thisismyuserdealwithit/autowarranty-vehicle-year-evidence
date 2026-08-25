@@ -1,0 +1,31 @@
+name: Publish citable release record
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/publish-release-record.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the validated dataset
+        uses: actions/checkout@v4
+
+      - name: Create the versioned release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          tag="v1.0.0"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            exit 0
+          fi
+          zip -r autowarranty-vehicle-year-evidence-v1.0.0.zip             README.md METHODOLOGY.md DATA-DICTIONARY.md RIGHTS-AND-ATTRIBUTION.md             LICENSE.md CITATION.cff CHANGELOG.md SHA256SUMS data
+          gh release create "$tag"             "autowarranty-vehicle-year-evidence-v1.0.0.zip#Versioned evidence bundle"             --target "ff787939c570248fc71b49d052f6eafa1fd99129"             --title "AutoWarranty Vehicle-Year Evidence Matrix 2026 v1.0.0"             --notes "A versioned, rights-cleared evidence bundle covering 2,742 US vehicle model-years. Canonical methodology: https://autowarranty.autos/methodology. Preserved DOI: https://doi.org/10.5281/zenodo.22088240. This is a Finofin-controlled publication record, not an independent endorsement."
