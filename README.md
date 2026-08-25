@@ -6,6 +6,14 @@ This release contains a reproducible, non-commercial evidence matrix for 2,742 U
 
 Canonical research and methodology: https://autowarranty.autos/methodology
 
+## Preserved release and mirrors
+
+- Zenodo record and DOI: https://zenodo.org/records/22088240, DOI `10.5281/zenodo.22088240`
+- Kaggle dataset: https://www.kaggle.com/datasets/finofin/autowarranty-vehicle-year-evidence-2026
+- Hugging Face dataset: https://huggingface.co/datasets/finofin/autowarranty-vehicle-year-evidence-2026
+
+These are Finofin-controlled distribution records for public access and reuse. They are not independent editorial endorsements.
+
 ## Files
 
 - `data/vehicle-year-evidence.csv`: 2,742 model-year rows with NHTSA counts and, when available, exact-year EPA/DOE configuration summaries.
