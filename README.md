@@ -37,3 +37,7 @@ No RepairPal-derived repair prices, modelled labour rates, affiliate fields, war
 ## Citation
 
 See `CITATION.cff`. Corrections can be reported through the public repository issue tracker or the AutoWarranty methodology page.
+
+## Later research
+
+[November 2026 research notes](NOVEMBER-2026-RESEARCH.md) link to separate studies of public contract wording and changes in NHTSA record counts. These pointers do not update the August 2026 dataset or extend its DOI, citation or license to the linked studies; the preserved August release remains unchanged.
