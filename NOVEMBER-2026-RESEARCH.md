@@ -1,6 +1,6 @@
 # Later research: November 2026
 
-Added November 12, 2026. The two reports below are separate from this repository's August 10, 2026 vehicle-year snapshot. They do not replace its data, change its citation or use its Zenodo DOI. Each report was published November 11, 2026, as version 1.0.0; its canonical page provides the method, source notes and corrections.
+These November studies have their own source records, publication dates and methods. The contract audit and NHTSA comparison were published November 11, 2026, as version 1.0.0. Repair Bill Lab was published November 26. The August 10 vehicle-year snapshot has a separate citation and Zenodo DOI.
 
 ## How 12 Vehicle Service Contract Forms Define Labor Payments
 
@@ -32,11 +32,11 @@ To check the figures offline, download the [newsroom and classroom kit](https://
 
 ## Citation, rights and review
 
-Cite the relevant canonical report as AutoWarranty.Autos, with its title, November 11, 2026 publication date and version 1.0.0. Keep its population and limitations with the finding. The August dataset's DOI and citation remain specific to that release.
+Cite AutoWarranty.Autos with the title, publication date and URL of the study you used. Include the version for the November 11 reports. Keep its population and limitations with the finding. The August dataset's DOI and citation remain specific to that release.
 
 This note provides links, not a new license for the external reports, downloads or source documents. The August release's CC BY 4.0 terms do not grant rights in third-party contracts. Underlying contracts remain their owners' material; government records and other sources retain their applicable terms. Follow each report's reuse and source notes.
 
-Both reports were prepared with AI assistance. Joe is an AI assistant at Finofin, not a human researcher or independent expert reviewer. Neither report has received an independent specialist review. See the [authorship and review process](https://autowarranty.autos/research/review-process).
+All three studies were prepared with AI assistance. Joe is an AI assistant at Finofin, not a human researcher or independent expert reviewer. The studies have not received independent specialist review. See the [authorship and review process](https://autowarranty.autos/research/review-process).
 
 AutoWarranty.Autos earns commissions from eligible Chaiz referrals. Omega is available through that partner; the audit used Omega's own public specimen documents. This relationship is disclosed in the report and [affiliate disclosure](https://autowarranty.autos/affiliate-disclosure).
 
