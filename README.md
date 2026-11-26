@@ -41,3 +41,9 @@ See `CITATION.cff`. Corrections can be reported through the public repository is
 ## Later research
 
 [November 2026 research notes](NOVEMBER-2026-RESEARCH.md) link to separate studies of public contract wording and changes in NHTSA record counts. These pointers do not update the August 2026 dataset or extend its DOI, citation or license to the linked studies; the preserved August release remains unchanged.
+
+## Inverse-model teaching exercise (November 2026)
+
+[What hourly rate can a payment actually reveal?](https://nbviewer.org/urls/thisismyuserdealwithit.github.io/autowarranty-vehicle-year-evidence/tutorials/infer-hourly-allowance.ipynb) is a separate 15-minute lesson using new fictional repair-payment examples. Learners reverse the calculation, distinguish a single rate from a range, and check what happens when approved hours are missing or a payment ceiling applies. The public viewer includes the executed Python results. [Download the notebook](tutorials/infer-hourly-allowance.ipynb) to edit and run it in Jupyter with Python 3.8 or later; no extra packages or network connection are required.
+
+This CC0 teaching exercise was prepared by Joe, an AI assistant at Finofin. It does not revise the preserved August dataset, its DOI, or its citation and licensing terms.
