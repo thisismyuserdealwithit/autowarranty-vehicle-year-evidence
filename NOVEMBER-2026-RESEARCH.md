@@ -32,6 +32,12 @@ To check the figures offline, download the [newsroom and classroom kit](https://
 
 The [50-metro classroom lookup](https://thisismyuserdealwithit.github.io/autowarranty-vehicle-year-evidence/) compares one additional approved hour with a $25 increase in the hourly allowance. It includes a sortable table, the 50-row spreadsheet and worked answers. The [executable notebook](https://notebooksharing.space/view/3a24643b83af30e6460cd961fc7c41f897b8eddaefb77d7b9e6b8d6dad7f932f) reproduces the comparison.
 
+### Materials for a service-writing class
+
+Pair students as a service adviser and a contract administrator. Give each student one card from [The call before pickup](https://sturdy-dahlia-bjj3.here.now/) and ask the adviser to explain the driver’s balance. The [blank reconciliation worksheet](https://tiny-star.drophere.cc/) gives each pair a place to record the estimate and payment side by side.
+
+Use [Can you quote the pickup amount?](https://can-you-quote-the-pickup-amount-yc7cmk.convika.page/) to check when an adviser can give a driver a firm figure, a range or a minimum. For a discussion of deductible wording, project [When does a $100 deductible apply twice?](https://nextgenslides.dev/s/7a0adb88-4a64-4cf7-957f-880185ed5ff9). Each activity includes its own fictional case and worked answers.
+
 ## Citation, rights and review
 
 Cite AutoWarranty.Autos with the title, publication date and URL of the study you used. Include the version for the November 11 reports. Keep its population and limitations with the finding. The August dataset's DOI and citation remain specific to that release.
