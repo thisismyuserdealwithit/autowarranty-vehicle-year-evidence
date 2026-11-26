@@ -1,0 +1,51 @@
+metro,state,modeled_shop_rate_usd_per_hour,driver_bill_original_usd,driver_bill_extra_hour_usd,driver_bill_higher_allowance_usd,extra_hour_saves_usd,higher_allowance_saves_usd,larger_saving,advantage_usd
+Atlanta,GA,153.51,578.08,453.08,428.08,125.00,150.00,Higher allowance,25.00
+Austin,TX,148.45,537.60,412.60,396.90,125.00,140.70,Higher allowance,15.70
+Baltimore,MD,149.31,544.48,419.48,398.62,125.00,145.86,Higher allowance,20.86
+Birmingham,AL,142.65,491.20,366.20,385.30,125.00,105.90,Extra hour,19.10
+Boston,MA,169.58,706.64,581.64,556.64,125.00,150.00,Higher allowance,25.00
+Buffalo,NY,136.73,443.84,318.84,373.46,125.00,70.38,Extra hour,54.62
+Charlotte,NC,149.90,549.20,424.20,399.80,125.00,149.40,Higher allowance,24.40
+Chicago,IL,153.35,576.80,451.80,426.80,125.00,150.00,Higher allowance,25.00
+Cincinnati,OH,144.37,504.96,379.96,388.74,125.00,116.22,Extra hour,8.78
+Cleveland,OH,148.99,541.92,416.92,397.98,125.00,143.94,Higher allowance,18.94
+Columbus,OH,130.23,391.84,266.84,360.46,125.00,31.38,Extra hour,93.62
+Dallas,TX,144.15,503.20,378.20,388.30,125.00,114.90,Extra hour,10.10
+Denver,CO,169.05,702.40,577.40,552.40,125.00,150.00,Higher allowance,25.00
+Detroit,MI,152.11,566.88,441.88,416.88,125.00,150.00,Higher allowance,25.00
+Grand Rapids,MI,145.82,516.56,391.56,391.64,125.00,124.92,Extra hour,0.08
+Houston,TX,141.89,485.12,360.12,383.78,125.00,101.34,Extra hour,23.66
+Indianapolis,IN,141.95,485.60,360.60,383.90,125.00,101.70,Extra hour,23.30
+Jacksonville,FL,141.95,485.60,360.60,383.90,125.00,101.70,Extra hour,23.30
+Kansas City,MO,147.75,532.00,407.00,395.50,125.00,136.50,Higher allowance,11.50
+Las Vegas,NV,143.45,497.60,372.60,386.90,125.00,110.70,Extra hour,14.30
+Los Angeles,CA,164.58,666.64,541.64,516.64,125.00,150.00,Higher allowance,25.00
+Louisville,KY,133.99,421.92,296.92,367.98,125.00,53.94,Extra hour,71.06
+Memphis,TN,141.95,485.60,360.60,383.90,125.00,101.70,Extra hour,23.30
+Miami,FL,144.37,504.96,379.96,388.74,125.00,116.22,Extra hour,8.78
+Milwaukee,WI,160.55,634.40,509.40,484.40,125.00,150.00,Higher allowance,25.00
+Minneapolis,MN,162.65,651.20,526.20,501.20,125.00,150.00,Higher allowance,25.00
+Nashville,TN,149.64,547.12,422.12,399.28,125.00,147.84,Higher allowance,22.84
+New Orleans,LA,139.80,468.40,343.40,379.60,125.00,88.80,Extra hour,36.20
+New York,NY,159.80,628.40,503.40,478.40,125.00,150.00,Higher allowance,25.00
+Norfolk,VA,154.64,587.12,462.12,437.12,125.00,150.00,Higher allowance,25.00
+Oklahoma City,OK,142.27,488.16,363.16,384.54,125.00,103.62,Extra hour,21.38
+Orlando,FL,138.56,458.48,333.48,377.12,125.00,81.36,Extra hour,43.64
+Philadelphia,PA,151.52,562.16,437.16,412.16,125.00,150.00,Higher allowance,25.00
+Phoenix,AZ,148.18,535.44,410.44,396.36,125.00,139.08,Higher allowance,14.08
+Pittsburgh,PA,136.78,444.24,319.24,373.56,125.00,70.68,Extra hour,54.32
+Portland,OR,171.41,721.28,596.28,571.28,125.00,150.00,Higher allowance,25.00
+Providence,RI,141.84,484.72,359.72,383.68,125.00,101.04,Extra hour,23.96
+Raleigh,NC,145.06,510.48,385.48,390.12,125.00,120.36,Extra hour,4.64
+Richmond,VA,136.89,445.12,320.12,373.78,125.00,71.34,Extra hour,53.66
+Rochester,NY,149.58,546.64,421.64,399.16,125.00,147.48,Higher allowance,22.48
+Sacramento,CA,176.73,763.84,638.84,613.84,125.00,150.00,Higher allowance,25.00
+Salt Lake City,UT,136.68,443.44,318.44,373.36,125.00,70.08,Extra hour,54.92
+San Antonio,TX,134.58,426.64,301.64,369.16,125.00,57.48,Extra hour,67.52
+San Diego,CA,165.77,676.16,551.16,526.16,125.00,150.00,Higher allowance,25.00
+San Francisco,CA,195.77,916.16,791.16,766.16,125.00,150.00,Higher allowance,25.00
+Seattle,WA,166.63,683.04,558.04,533.04,125.00,150.00,Higher allowance,25.00
+St. Louis,MO,147.48,529.84,404.84,394.96,125.00,134.88,Higher allowance,9.88
+Tampa,FL,138.88,461.04,336.04,377.76,125.00,83.28,Extra hour,41.72
+Tucson,AZ,135.17,431.36,306.36,370.34,125.00,61.02,Extra hour,63.98
+Washington,DC,171.89,725.12,600.12,575.12,125.00,150.00,Higher allowance,25.00

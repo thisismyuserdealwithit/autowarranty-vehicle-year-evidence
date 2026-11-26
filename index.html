@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Use 50 modeled shop rates to compare one extra approved repair hour with a higher hourly allowance. Includes a classroom exercise, worked answers and the data.">
+<title>One more hour or a higher hourly allowance? | AutoWarranty research</title>
+<link rel="canonical" href="https://thisismyuserdealwithit.github.io/autowarranty-vehicle-year-evidence/">
+<style>
+:root{font-family:Inter,Arial,sans-serif;color:#162a31;background:#f8f7f2;line-height:1.55;font-size:17px}
+*{box-sizing:border-box}body{margin:0}main,header,footer{max-width:1010px;margin:auto;padding:0 clamp(16px,4vw,50px)}
+header{padding-top:2rem}header p{margin:0;padding-bottom:.65rem;border-bottom:2px solid #203b41;font-weight:bold;font-size:.9rem}
+section{margin:2rem 0}h1,h2{color:#173c40;line-height:1.1}h1{font-family:Georgia,serif;max-width:17ch;font-size:clamp(2.4rem,7vw,4.25rem);margin:.8em 0 .4em;letter-spacing:-.035em}h2{font-size:clamp(1.5rem,3vw,2rem);margin-bottom:.5rem}
+p{max-width:70ch}a{color:#075b65;text-decoration-thickness:.09em;text-underline-offset:.12em}a:focus-visible,select:focus-visible,input:focus-visible,summary:focus-visible{outline:3px solid #ad4d12;outline-offset:3px}
+.result{border-left:5px solid #b76021;background:#f4ead9;padding:1rem 1.2rem;max-width:75ch}.result p{margin:0}
+fieldset{padding:0;border:0;display:flex;flex-wrap:wrap;gap:1em;margin:1.1rem 0 .4rem}fieldset label{display:grid;gap:.2em;font-size:.9rem;font-weight:bold}
+input,select{border:1px solid #56747b;border-radius:3px;padding:.55rem;font:inherit;background:white;color:inherit;max-width:100%}
+table{border-collapse:collapse;width:100%;background:#fff;font-variant-numeric:tabular-nums}th,td{text-align:right;padding:.65rem .75rem;border-bottom:1px solid #d0d8d5}thead{background:#234a4c;color:white}thead th{font-weight:600;line-height:1.25}th:first-child,td:last-child,th:last-child{text-align:left}tbody th{font-weight:600}tbody tr:nth-child(even){background:#eff3ef}caption{text-align:left;font-weight:600;padding:.4rem 0}
+details{margin:.65rem 0}summary{cursor:pointer;font-weight:bold;color:#1b535a}details p{padding-left:1.2rem}footer{padding-bottom:2rem;font-size:.85rem;color:#3a5359}footer p{border-top:1px solid #b5c4c2;padding-top:1.2rem}.skip{position:absolute;left:-9999px}.skip:focus{position:static}.dim{color:#435e63;font-size:.9rem}.visually-hidden{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}[hidden]{display:none!important}
+@media(max-width:620px){.table-wrap{overflow-x:auto}th,td{padding:.5rem .35rem}table{font-size:.85rem}thead th{font-size:.75rem}th:first-child{width:24%}.result{padding:.8rem}fieldset>*{flex:1 0 100%}fieldset label>input,fieldset label>select{width:100%}}
+@media print{body{background:white;font-size:11pt}.controls,.skip{display:none}tr{break-inside:avoid}thead{display:table-header-group}th,td{padding:.2rem}.result{border:1px solid;padding:.5rem}}
+</style>
+</head>
+<body><a class="skip" href="#main">Skip to lesson</a>
+<header><p>AutoWarranty.Autos &nbsp;/&nbsp; Research classroom</p></header>
+<main id="main"><h1>One more hour or a higher hourly allowance?</h1>
+<p>A repair takes eight hours. The administrator agrees to pay for six at up to $125 an hour. The shop asks for a change. Would the driver save more if the administrator approved a seventh hour or raised the hourly allowance to $150?</p>
+<div class="result"><p><strong>Across 50 modeled metro shop rates, one more hour saves more in 24 metros. The higher allowance saves more in 26.</strong> The choice comes within eight cents in Grand Rapids, Michigan.</p></div>
+<section aria-labelledby="lesson"><h2 id="lesson">Try the Grand Rapids case</h2>
+<p>The modeled shop rate is $145.82. The administrator accepts all $600 in parts and applies one $100 deductible. Assume the same repair, with no tax, fees or further payment limit. Work out the reduction in the driver’s bill under each change.</p>
+<details><summary>Check the arithmetic</summary><p>The seventh hour saves $125. Raising the allowance lets the administrator pay the shop’s $145.82 rate for six hours. That adds $20.82 per hour, or $124.92. The seventh hour saves eight cents more.</p></details>
+<details><summary>What if the shop charged $145.84?</summary><p>Six times $20.84 is $125.04. The higher rate would now save four cents more than the additional hour. At prices stated in whole cents, $145.84 is the first shop rate above $125 where the higher allowance wins.</p></details>
+</section>
+<section aria-labelledby="metros"><h2 id="metros">Look up a metro</h2>
+<p>The two savings columns show how much less the driver pays compared with the original six-hour authorization at $125. Each metro counts once. These rates are modeled estimates, and the authorizations are fictional.</p>
+<div class="controls" id="controls" hidden><fieldset><legend class="visually-hidden">Filter and sort the metro comparison</legend>
+<label>Metro or state abbreviation<input type="search" id="query" placeholder="e.g. Grand Rapids or MI"></label>
+<label>Which change saves more?<select id="winner"><option value="">Either change</option><option value="hour">Extra hour</option><option value="rate">Higher allowance</option></select></label>
+<label>Sort by<select id="order"><option value="name">Metro name</option><option value="near">Closest result first</option><option value="price">Lowest shop rate first</option></select></label></fieldset>
+<p id="status" aria-live="polite" class="dim">50 metros shown.</p></div>
+<div class="table-wrap"><table><caption>Modeled savings in US dollars</caption><thead><tr><th scope="col">Metro</th><th scope="col">Shop rate per hour</th><th scope="col">Extra hour saves</th><th scope="col">Higher allowance saves</th><th scope="col">Larger saving</th></tr></thead><tbody>
+<tr data-metro="atlanta" data-state="ga" data-price="153.51" data-near="25.00" data-winner="rate"><th scope="row">Atlanta, GA</th><td>$153.51</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="austin" data-state="tx" data-price="148.45" data-near="15.70" data-winner="rate"><th scope="row">Austin, TX</th><td>$148.45</td><td>$125.00</td><td>$140.70</td><td>Higher allowance</td></tr>
+<tr data-metro="baltimore" data-state="md" data-price="149.31" data-near="20.86" data-winner="rate"><th scope="row">Baltimore, MD</th><td>$149.31</td><td>$125.00</td><td>$145.86</td><td>Higher allowance</td></tr>
+<tr data-metro="birmingham" data-state="al" data-price="142.65" data-near="19.10" data-winner="hour"><th scope="row">Birmingham, AL</th><td>$142.65</td><td>$125.00</td><td>$105.90</td><td>Extra hour</td></tr>
+<tr data-metro="boston" data-state="ma" data-price="169.58" data-near="25.00" data-winner="rate"><th scope="row">Boston, MA</th><td>$169.58</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="buffalo" data-state="ny" data-price="136.73" data-near="54.62" data-winner="hour"><th scope="row">Buffalo, NY</th><td>$136.73</td><td>$125.00</td><td>$70.38</td><td>Extra hour</td></tr>
+<tr data-metro="charlotte" data-state="nc" data-price="149.90" data-near="24.40" data-winner="rate"><th scope="row">Charlotte, NC</th><td>$149.90</td><td>$125.00</td><td>$149.40</td><td>Higher allowance</td></tr>
+<tr data-metro="chicago" data-state="il" data-price="153.35" data-near="25.00" data-winner="rate"><th scope="row">Chicago, IL</th><td>$153.35</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="cincinnati" data-state="oh" data-price="144.37" data-near="8.78" data-winner="hour"><th scope="row">Cincinnati, OH</th><td>$144.37</td><td>$125.00</td><td>$116.22</td><td>Extra hour</td></tr>
+<tr data-metro="cleveland" data-state="oh" data-price="148.99" data-near="18.94" data-winner="rate"><th scope="row">Cleveland, OH</th><td>$148.99</td><td>$125.00</td><td>$143.94</td><td>Higher allowance</td></tr>
+<tr data-metro="columbus" data-state="oh" data-price="130.23" data-near="93.62" data-winner="hour"><th scope="row">Columbus, OH</th><td>$130.23</td><td>$125.00</td><td>$31.38</td><td>Extra hour</td></tr>
+<tr data-metro="dallas" data-state="tx" data-price="144.15" data-near="10.10" data-winner="hour"><th scope="row">Dallas, TX</th><td>$144.15</td><td>$125.00</td><td>$114.90</td><td>Extra hour</td></tr>
+<tr data-metro="denver" data-state="co" data-price="169.05" data-near="25.00" data-winner="rate"><th scope="row">Denver, CO</th><td>$169.05</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="detroit" data-state="mi" data-price="152.11" data-near="25.00" data-winner="rate"><th scope="row">Detroit, MI</th><td>$152.11</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="grand rapids" data-state="mi" data-price="145.82" data-near="0.08" data-winner="hour"><th scope="row">Grand Rapids, MI</th><td>$145.82</td><td>$125.00</td><td>$124.92</td><td>Extra hour</td></tr>
+<tr data-metro="houston" data-state="tx" data-price="141.89" data-near="23.66" data-winner="hour"><th scope="row">Houston, TX</th><td>$141.89</td><td>$125.00</td><td>$101.34</td><td>Extra hour</td></tr>
+<tr data-metro="indianapolis" data-state="in" data-price="141.95" data-near="23.30" data-winner="hour"><th scope="row">Indianapolis, IN</th><td>$141.95</td><td>$125.00</td><td>$101.70</td><td>Extra hour</td></tr>
+<tr data-metro="jacksonville" data-state="fl" data-price="141.95" data-near="23.30" data-winner="hour"><th scope="row">Jacksonville, FL</th><td>$141.95</td><td>$125.00</td><td>$101.70</td><td>Extra hour</td></tr>
+<tr data-metro="kansas city" data-state="mo" data-price="147.75" data-near="11.50" data-winner="rate"><th scope="row">Kansas City, MO</th><td>$147.75</td><td>$125.00</td><td>$136.50</td><td>Higher allowance</td></tr>
+<tr data-metro="las vegas" data-state="nv" data-price="143.45" data-near="14.30" data-winner="hour"><th scope="row">Las Vegas, NV</th><td>$143.45</td><td>$125.00</td><td>$110.70</td><td>Extra hour</td></tr>
+<tr data-metro="los angeles" data-state="ca" data-price="164.58" data-near="25.00" data-winner="rate"><th scope="row">Los Angeles, CA</th><td>$164.58</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="louisville" data-state="ky" data-price="133.99" data-near="71.06" data-winner="hour"><th scope="row">Louisville, KY</th><td>$133.99</td><td>$125.00</td><td>$53.94</td><td>Extra hour</td></tr>
+<tr data-metro="memphis" data-state="tn" data-price="141.95" data-near="23.30" data-winner="hour"><th scope="row">Memphis, TN</th><td>$141.95</td><td>$125.00</td><td>$101.70</td><td>Extra hour</td></tr>
+<tr data-metro="miami" data-state="fl" data-price="144.37" data-near="8.78" data-winner="hour"><th scope="row">Miami, FL</th><td>$144.37</td><td>$125.00</td><td>$116.22</td><td>Extra hour</td></tr>
+<tr data-metro="milwaukee" data-state="wi" data-price="160.55" data-near="25.00" data-winner="rate"><th scope="row">Milwaukee, WI</th><td>$160.55</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="minneapolis" data-state="mn" data-price="162.65" data-near="25.00" data-winner="rate"><th scope="row">Minneapolis, MN</th><td>$162.65</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="nashville" data-state="tn" data-price="149.64" data-near="22.84" data-winner="rate"><th scope="row">Nashville, TN</th><td>$149.64</td><td>$125.00</td><td>$147.84</td><td>Higher allowance</td></tr>
+<tr data-metro="new orleans" data-state="la" data-price="139.80" data-near="36.20" data-winner="hour"><th scope="row">New Orleans, LA</th><td>$139.80</td><td>$125.00</td><td>$88.80</td><td>Extra hour</td></tr>
+<tr data-metro="new york" data-state="ny" data-price="159.80" data-near="25.00" data-winner="rate"><th scope="row">New York, NY</th><td>$159.80</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="norfolk" data-state="va" data-price="154.64" data-near="25.00" data-winner="rate"><th scope="row">Norfolk, VA</th><td>$154.64</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="oklahoma city" data-state="ok" data-price="142.27" data-near="21.38" data-winner="hour"><th scope="row">Oklahoma City, OK</th><td>$142.27</td><td>$125.00</td><td>$103.62</td><td>Extra hour</td></tr>
+<tr data-metro="orlando" data-state="fl" data-price="138.56" data-near="43.64" data-winner="hour"><th scope="row">Orlando, FL</th><td>$138.56</td><td>$125.00</td><td>$81.36</td><td>Extra hour</td></tr>
+<tr data-metro="philadelphia" data-state="pa" data-price="151.52" data-near="25.00" data-winner="rate"><th scope="row">Philadelphia, PA</th><td>$151.52</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="phoenix" data-state="az" data-price="148.18" data-near="14.08" data-winner="rate"><th scope="row">Phoenix, AZ</th><td>$148.18</td><td>$125.00</td><td>$139.08</td><td>Higher allowance</td></tr>
+<tr data-metro="pittsburgh" data-state="pa" data-price="136.78" data-near="54.32" data-winner="hour"><th scope="row">Pittsburgh, PA</th><td>$136.78</td><td>$125.00</td><td>$70.68</td><td>Extra hour</td></tr>
+<tr data-metro="portland" data-state="or" data-price="171.41" data-near="25.00" data-winner="rate"><th scope="row">Portland, OR</th><td>$171.41</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="providence" data-state="ri" data-price="141.84" data-near="23.96" data-winner="hour"><th scope="row">Providence, RI</th><td>$141.84</td><td>$125.00</td><td>$101.04</td><td>Extra hour</td></tr>
+<tr data-metro="raleigh" data-state="nc" data-price="145.06" data-near="4.64" data-winner="hour"><th scope="row">Raleigh, NC</th><td>$145.06</td><td>$125.00</td><td>$120.36</td><td>Extra hour</td></tr>
+<tr data-metro="richmond" data-state="va" data-price="136.89" data-near="53.66" data-winner="hour"><th scope="row">Richmond, VA</th><td>$136.89</td><td>$125.00</td><td>$71.34</td><td>Extra hour</td></tr>
+<tr data-metro="rochester" data-state="ny" data-price="149.58" data-near="22.48" data-winner="rate"><th scope="row">Rochester, NY</th><td>$149.58</td><td>$125.00</td><td>$147.48</td><td>Higher allowance</td></tr>
+<tr data-metro="sacramento" data-state="ca" data-price="176.73" data-near="25.00" data-winner="rate"><th scope="row">Sacramento, CA</th><td>$176.73</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="salt lake city" data-state="ut" data-price="136.68" data-near="54.92" data-winner="hour"><th scope="row">Salt Lake City, UT</th><td>$136.68</td><td>$125.00</td><td>$70.08</td><td>Extra hour</td></tr>
+<tr data-metro="san antonio" data-state="tx" data-price="134.58" data-near="67.52" data-winner="hour"><th scope="row">San Antonio, TX</th><td>$134.58</td><td>$125.00</td><td>$57.48</td><td>Extra hour</td></tr>
+<tr data-metro="san diego" data-state="ca" data-price="165.77" data-near="25.00" data-winner="rate"><th scope="row">San Diego, CA</th><td>$165.77</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="san francisco" data-state="ca" data-price="195.77" data-near="25.00" data-winner="rate"><th scope="row">San Francisco, CA</th><td>$195.77</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="seattle" data-state="wa" data-price="166.63" data-near="25.00" data-winner="rate"><th scope="row">Seattle, WA</th><td>$166.63</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+<tr data-metro="st. louis" data-state="mo" data-price="147.48" data-near="9.88" data-winner="rate"><th scope="row">St. Louis, MO</th><td>$147.48</td><td>$125.00</td><td>$134.88</td><td>Higher allowance</td></tr>
+<tr data-metro="tampa" data-state="fl" data-price="138.88" data-near="41.72" data-winner="hour"><th scope="row">Tampa, FL</th><td>$138.88</td><td>$125.00</td><td>$83.28</td><td>Extra hour</td></tr>
+<tr data-metro="tucson" data-state="az" data-price="135.17" data-near="63.98" data-winner="hour"><th scope="row">Tucson, AZ</th><td>$135.17</td><td>$125.00</td><td>$61.02</td><td>Extra hour</td></tr>
+<tr data-metro="washington" data-state="dc" data-price="171.89" data-near="25.00" data-winner="rate"><th scope="row">Washington, DC</th><td>$171.89</td><td>$125.00</td><td>$150.00</td><td>Higher allowance</td></tr>
+</tbody></table></div></section>
+<section><h2>Use the data in class</h2><p><a href="metro-comparison.csv" download>Download the 50-metro comparison (CSV)</a>. Sort the two savings columns in a spreadsheet. Which metro comes closest after Grand Rapids? Explain why the savings from the higher allowance stop at $150.</p>
+<details><summary>Check the extension</summary><p>Raleigh comes next. At $145.06 per hour, the higher allowance saves $120.36 against $125 for the extra hour. The rate increase can add at most $25 for each of the six approved hours. Six times $25 gives the $150 ceiling in this exercise.</p></details>
+<p><a href="one-more-approved-hour.ipynb" download>Download the Python notebook</a> to repeat the comparison offline. The <a href="https://autowarranty.autos/research/repair-bill-lab">Repair Bill Lab</a> lets you change the repair yourself. Its <a href="https://autowarranty.autos/research/repair-bill-lab/data">1,350-scenario source file</a> contains the 150 rows used here.</p></section></main>
+<footer><p>Prepared November 26, 2026, by Joe, an AI assistant at Finofin, using the publisher’s modeled rates. Real repair bills depend on the shop and the written agreement. AutoWarranty.Autos earns commissions from eligible referrals.</p></footer>
+<script>
+const table = document.querySelector('tbody');
+const rows = [...table.rows];
+const states = new Set(rows.map(row => row.dataset.state));
+const query = document.getElementById('query');
+const winner = document.getElementById('winner');
+const order = document.getElementById('order');
+function updateTable() {
+  const term = query.value.trim().toLowerCase();
+  const sorted = [...rows].sort((a,b) => {
+    if (order.value !== 'name') {
+      const difference = Number(a.dataset[order.value]) - Number(b.dataset[order.value]);
+      if (difference) return difference;
+    }
+    return a.dataset.metro.localeCompare(b.dataset.metro);
+  });
+  let count = 0;
+  for (const row of sorted) {
+    const matches = states.has(term) ? row.dataset.state === term : row.dataset.metro.includes(term);
+    row.hidden = !matches || (winner.value !== '' && row.dataset.winner !== winner.value);
+    if (!row.hidden) count++;
+    table.append(row);
+  }
+  document.getElementById('status').textContent = count + (count === 1 ? ' metro shown.' : ' metros shown.');
+}
+query.addEventListener('input',updateTable);
+winner.addEventListener('change',updateTable);
+order.addEventListener('change',updateTable);
+document.getElementById('controls').hidden = false;
+</script></body></html>
