@@ -30,6 +30,8 @@ The lab combines two separate research inputs. The 12-document audit above expla
 
 To check the figures offline, download the [newsroom and classroom kit](https://autowarranty.autos/research/repair-bill-lab/kit). Its calculation script accepts `--snapshot` and verifies the resulting CSV against the release checksum. The August vehicle-year archive has its own data, citation and reuse terms.
 
+The [50-metro classroom lookup](https://thisismyuserdealwithit.github.io/autowarranty-vehicle-year-evidence/) compares one additional approved hour with a $25 increase in the hourly allowance. It includes a sortable table, the 50-row spreadsheet and worked answers. The [executable notebook](https://notebooksharing.space/view/3a24643b83af30e6460cd961fc7c41f897b8eddaefb77d7b9e6b8d6dad7f932f) reproduces the comparison.
+
 ## Citation, rights and review
 
 Cite AutoWarranty.Autos with the title, publication date and URL of the study you used. Include the version for the November 11 reports. Keep its population and limitations with the finding. The August dataset's DOI and citation remain specific to that release.
