@@ -22,6 +22,14 @@ The CSV preserves both match statuses, counts, differences and campaign IDs adde
 
 These are changes in recorded counts, not counts of new incidents or failure rates. The baseline does not preserve individual complaint-ID sets, so the report cannot identify which complaint IDs appeared or disappeared. Its corrected October population is not interchangeable with this repository's August snapshot. Repeating the source joins requires the retained source files; current NHTSA URLs may serve later versions.
 
+## Repair Bill Lab, November 26
+
+[Compare a shop estimate with an authorization](https://autowarranty.autos/research/repair-bill-lab) · [Download the 1,350-row CSV](https://autowarranty.autos/research/repair-bill-lab/data) · [Reproduce the data in Python](https://autowarranty.autos/research/repair-bill-lab/method) · [Classroom exercise and answer key](https://autowarranty.autos/research/repair-bill-lab/worksheet)
+
+The lab combines two separate research inputs. The 12-document audit above explains where to find labor-time and hourly-rate rules. The experiment uses 50 modeled metro shop rates and hypothetical authorizations. On an eight-hour repair with $600 in fully approved parts, a $150 hourly allowance and a $100 deductible, approving six hours instead of eight moves the median driver payment from $100 to $395.23. No observed claims or prices paid enter this comparison.
+
+To check the figures offline, download the [newsroom and classroom kit](https://autowarranty.autos/research/repair-bill-lab/kit). Its calculation script accepts `--snapshot` and verifies the resulting CSV against the release checksum. The August vehicle-year archive has its own data, citation and reuse terms.
+
 ## Citation, rights and review
 
 Cite the relevant canonical report as AutoWarranty.Autos, with its title, November 11, 2026 publication date and version 1.0.0. Keep its population and limitations with the finding. The August dataset's DOI and citation remain specific to that release.
